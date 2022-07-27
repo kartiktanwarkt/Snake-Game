@@ -8,10 +8,10 @@ function init()
 
     game_over=false;
     food_img=new Image();
-    food_img.src="./assets/apple.png";
+    food_img.src="./apple.png";
 
     trophy=new Image();
-    trophy.src="./assets/trophy.png";
+    trophy.src="./trophy.png";
 
     food =getrandomfood();
 
